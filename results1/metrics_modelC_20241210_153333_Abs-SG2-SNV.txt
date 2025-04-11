@@ -1,0 +1,12 @@
+Results for Model C generated at 2024-12-10 15:33:33
+--------------------------------------------------
+Indicator 1 (pH.in.CaCl2) - RMSE: 0.8667, R2: 0.7227
+Indicator 2 (pH.in.H2O) - RMSE: 0.8609, R2: 0.6986
+Indicator 3 (OC) - RMSE: 5.8075, R2: 0.8544
+Indicator 4 (CaCO3) - RMSE: 6.3981, R2: 0.8877
+Indicator 5 (N) - RMSE: 1.4128, R2: 0.6836
+Indicator 6 (P) - RMSE: 5.8376, R2: 0.1469
+Indicator 7 (K) - RMSE: 12.9567, R2: 0.3112
+Indicator 8 (CEC) - RMSE: 3.2131, R2: 0.3770
+
+Average Test Loss: 17.8127

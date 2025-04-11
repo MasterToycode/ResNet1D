@@ -1,0 +1,4 @@
+Results for Model C generated at 2024-12-13 20:34:38
+--------------------------------------------------
+
+Average Test Loss: 17.7109
